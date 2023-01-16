@@ -7,6 +7,8 @@ Kahn's Topological Sort Algorithm:
 */
 #include <vector>
 #include <queue>
+#include <set>
+
 using namespace std;
 
 class Solution {
@@ -38,8 +40,7 @@ public:
                 ancestors[child].insert(cur);
 
                 // inserting all cur's ancestors to child's ancestors
-                for(int ancestor : ancestors[cur])
-                    ancestors[child].insert(ancestor);
+                ancestors[child].insert(ancestors[cur].begin(), ancestors[cur].end());
                 
                 in_degree[child]--;
                 if(in_degree[child] == 0)
