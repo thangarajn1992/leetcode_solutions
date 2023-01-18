@@ -41,14 +41,14 @@ Output: [true,true]
 
 Constraints:
 
-    2 <= numCourses <= 100
-    0 <= prerequisites.length <= (numCourses * (numCourses - 1) / 2)
-    prerequisites[i].length == 2
-    0 <= ai, bi <= n - 1
-    ai != bi
-    All the pairs [ai, bi] are unique.
-    The prerequisites graph has no cycles.
-    1 <= queries.length <= 104
-    0 <= ui, vi <= n - 1
-    ui != vi
+* 2 <= numCourses <= 100
+* 0 <= prerequisites.length <= (numCourses * (numCourses - 1) / 2)
+* prerequisites[i].length == 2
+* 0 <= ai, bi <= n - 1
+* ai != bi
+* All the pairs [ai, bi] are unique.
+* The prerequisites graph has no cycles.
+* 1 <= queries.length <= 10^4
+* 0 <= ui, vi <= n - 1
+* ui != vi
 
