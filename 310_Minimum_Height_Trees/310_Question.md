@@ -8,7 +8,7 @@ The height of a rooted tree is the number of edges on the longest downward path 
 
 **Example 1:**
 
-![Example1]()
+![Example1](https://github.com/thangarajn1992/leetcode_solutions/blob/main/310_Minimum_Height_Trees/310_example1.png)
 
 ```text
 Input: n = 4, edges = [[1,0],[1,2],[1,3]]
@@ -19,7 +19,7 @@ Explanation: As shown, the height of the tree is 1 when the root is the node wit
 
 **Example 2:**
 
-![Example2]()
+![Example2](https://github.com/thangarajn1992/leetcode_solutions/blob/main/310_Minimum_Height_Trees/310_example2.png)
 
 ```text
 Input: n = 6, edges = [[3,0],[3,1],[3,2],[3,4],[5,4]]
