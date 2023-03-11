@@ -13,7 +13,7 @@ Example 1:
 Illustration of graph
 
 
-![802 Picture 1](https://github.com/thangarajn1992/leetcode_solutions/blob/main/802_Find_Eventual_Safe_States/802_Picture1.png)
+![802 Picture 1](https://github.com/thangarajn1992/leetcode_solutions/blob/main/0802_Find_Eventual_Safe_States/0802_Picture1.png)
 
 ```text
 Input: graph = [[1,2],[2,3],[5],[0],[5],[],[]]
