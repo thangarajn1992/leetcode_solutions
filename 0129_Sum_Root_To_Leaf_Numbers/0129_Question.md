@@ -11,7 +11,7 @@ You are given the root of a binary tree containing digits from 0 to 9 only. Each
 
 **Example1**
 
-![Example1](https://github.com/thangarajn1992/leetcode_solutions/blob/main/0128_Sum_Root_To_Leaf_Numbers/0128_example1.jpg)
+![Example1](https://github.com/thangarajn1992/leetcode_solutions/blob/main/0129_Sum_Root_To_Leaf_Numbers/0129_example1.jpg)
 
 ```text
 Input: root = [1,2,3]
@@ -24,7 +24,7 @@ Therefore, sum = 12 + 13 = 25.
 
 **Example2**
 
-![Example2](https://github.com/thangarajn1992/leetcode_solutions/blob/main/0128_Sum_Root_To_Leaf_Numbers/0128_example2.jpg)
+![Example2](https://github.com/thangarajn1992/leetcode_solutions/blob/main/0129_Sum_Root_To_Leaf_Numbers/0129_example2.jpg)
 
 ```text
 Input: root = [4,9,0,5,1]
