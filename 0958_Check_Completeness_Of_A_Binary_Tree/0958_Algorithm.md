@@ -5,7 +5,7 @@
 * If we traverse the tree level by level from left to right and we come across a null node, all subsequent nodes in  the traversal should be null as well.
 * No null node in between two non-null nodes
 
-[Solution]((https://github.com/thangarajn1992/leetcode_solutions/blob/main/0958_Check_Completeness_Of_A_Binary_Tree/0958_Solution_BFS.cc)
+[Solution](https://github.com/thangarajn1992/leetcode_solutions/blob/main/0958_Check_Completeness_Of_A_Binary_Tree/0958_Solution_BFS.cc)
 
 ## Depth First Search Approach
 
@@ -17,5 +17,5 @@ means a node is missing from the first n indices.
 
 ![Explanation1](https://github.com/thangarajn1992/leetcode_solutions/blob/main/0958_Check_Completeness_Of_A_Binary_Tree/0958_dfs_algo1.png)
 
-[Solution]((https://github.com/thangarajn1992/leetcode_solutions/blob/main/0958_Check_Completeness_Of_A_Binary_Tree/0958_Solution_BFS.cc)
+[Solution](https://github.com/thangarajn1992/leetcode_solutions/blob/main/0958_Check_Completeness_Of_A_Binary_Tree/0958_Solution_BFS.cc)
 
