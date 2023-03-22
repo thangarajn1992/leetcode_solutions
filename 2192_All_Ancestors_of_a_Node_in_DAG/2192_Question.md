@@ -18,7 +18,7 @@ A node u is an ancestor of another node v if u can reach v via a set of edges.
 * There are no duplicate edges.
 * The graph is directed and acyclic.
 
-Example 1:
+**Example 1**:
 
 ![Example1](https://github.com/thangarajn1992/leetcode_solutions/blob/main/2192_All_Ancestors_of_a_Node_in_DAG/2192_picture1.png)
 
@@ -35,7 +35,7 @@ The above diagram represents the input graph.
 - Node 7 has four ancestors 0, 1, 2, and 3.
 ```
 
-Example 2:
+**Example 2**:
 
 ![Example2](https://github.com/thangarajn1992/leetcode_solutions/blob/main/2192_All_Ancestors_of_a_Node_in_DAG/2192_picture2.png)
 
@@ -52,7 +52,7 @@ The above diagram represents the input graph.
 ```
  
 
-##Solution
+## Solution
 
 ### Kahn's Topological Sort Algorithm
 
